@@ -27,7 +27,8 @@
 				"ms-python.python",
 				"ms-python.vscode-pylance",
 				"vsls-contrib.codetour",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"mathematic.vscode-pdf"
 			]
 		}
 	},
