@@ -28,7 +28,8 @@
 				"ms-python.vscode-pylance",
 				"vsls-contrib.codetour",
 				"GitHub.copilot",
-				"mathematic.vscode-pdf"
+				"mathematic.vscode-pdf",
+				"george-alisson.html-preview-vscode"
 			]
 		}
 	},
